@@ -1,4 +1,4 @@
-package ProjectCamilly.project15years;
+package ProjectCamilly.project15years.controller;
 
 import ProjectCamilly.project15years.dto.InvitedUpdateDTO;
 import ProjectCamilly.project15years.model.Invited;

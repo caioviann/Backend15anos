@@ -17,7 +17,7 @@ public class CorsConfig {
                         .allowedOrigins(
                                 "http://localhost:3000",
                                 "https://seu-frontend.vercel.app",
-                                "https://dashboard-statistics.vercel.app/"
+                                "https://dashboard-statistics.vercel.app"
                         )
                         .allowedMethods("*")
                         .allowedHeaders("*")
